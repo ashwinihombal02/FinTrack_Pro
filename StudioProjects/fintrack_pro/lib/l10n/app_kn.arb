@@ -1,0 +1,12 @@
+{
+  "appTitle": "ಫಿನ್‌ಟ್ರ್ಯಾಕ್ ಪ್ರೊ",
+  "totalExpense": "ಒಟ್ಟು ವೆಚ್ಚ",
+  "addTransaction": "ವಹಿವಾಟು ಸೇರಿಸಿ",
+  "settings": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
+  "noTransactions": "ಯಾವುದೇ ವಹಿವಾಟು ಇಲ್ಲ",
+  "noAnalytics": "ವಿಶ್ಲೇಷಣೆ ಇಲ್ಲ",
+  "selectDate": "ದಿನಾಂಕ ಆಯ್ಕೆಮಾಡಿ",
+  "captureReceipt": "ರಸೀದಿ ಸೇರಿಸಿ",
+  "saveTransaction": "ಉಳಿಸಿ",
+  "updateTransaction": "ನವೀಕರಿಸಿ"
+}
